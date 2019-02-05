@@ -3,3 +3,10 @@ a=3
         print"even"
     else:
         print"odd"
+  
+
+
+
+
+
+
