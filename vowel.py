@@ -1,11 +1,13 @@
-d=['a','e','i','o','u','A','E','I','O','U'];
-s=str(input("Enter the letter:"))
-if(s in d):
-  print("vowel")
+r=raw_input()
+print(r)
+if(r>='a'):
+    print"Alphabet"
+elif(r>='A'):
+    print"Alphabet"
 else:
-  print("consonant")
-  
-  
-  
-  
- 
+    print"no"
+    
+    
+    
+    
+    
